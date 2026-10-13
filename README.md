@@ -189,10 +189,10 @@ Install the tools required by your implementation.
 **Step 1: Clone the repository**
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone MY_GITHUB_REPOSITORY_URL
 ```
+amayacyber07-del/AI.FILE-RECOVERY
 
-Replace `YOUR_GITHUB_REPOSITORY_URL` with your actual GitHub repository URL.
 
 **Step 2: Navigate to the project folder**
 
