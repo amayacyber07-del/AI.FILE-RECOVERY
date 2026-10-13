@@ -189,9 +189,9 @@ Install the tools required by your implementation.
 **Step 1: Clone the repository**
 
 ```bash
-git clone MY_GITHUB_REPOSITORY_URL
-```
 amayacyber07-del/AI.FILE-RECOVERY
+```
+
 
 
 **Step 2: Navigate to the project folder**
@@ -200,7 +200,7 @@ amayacyber07-del/AI.FILE-RECOVERY
 cd AI.FILE RECOVERY
 ```
 
-Replace `AI.FILE RECOVERY` with the actual folder name.
+ `AI.FILE RECOVERY`
 
 **Step 3: Install dependencies**
 
