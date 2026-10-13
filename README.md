@@ -197,10 +197,10 @@ Replace `YOUR_GITHUB_REPOSITORY_URL` with your actual GitHub repository URL.
 **Step 2: Navigate to the project folder**
 
 ```bash
-cd YOUR_PROJECT_FOLDER
+cd AI.FILE RECOVERY
 ```
 
-Replace `YOUR_PROJECT_FOLDER` with the actual folder name.
+Replace `AI.FILE RECOVERY` with the actual folder name.
 
 **Step 3: Install dependencies**
 
@@ -273,7 +273,9 @@ Contributions and suggestions are welcome.
 
 ## 📄 13. License
 
-Choose and add an appropriate open-source license if you intend to distribute this project publicly.
+This project is licensed under the
+
+MIT License — free for educational and personal cybersecurity training purposes.
 
 ---
 
